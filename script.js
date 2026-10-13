@@ -1,17 +1,17 @@
 // My list of emoji codes
 const emojiCodes = [
-    128512, // Grinning face
-    128514, // Laughing face
-    128525, // Heart eyes
-    128526, // Sunglasses face
-    128640, // Rocket
-    127775, // Star
-    127881, // Party popper
-    128049, // Cat
-    128054, // Dog
-    127829, // Pizza
-    127822, // Green apple
-    129409  // Lion
+    128518, // Laughing Face😆
+    128557, // Crying Face😭
+    128523, // Face with Tears of Joy😋
+    128526, // Smiling Face with Sunglasses😎
+    128564, // Sleeping Face😴
+    128570, // Grinning Cat😺
+    128054, // Dog🐶
+    128128, // Skull💀
+    128125, // Alien👽
+    127809, // Maple Leaf🍁
+    128520,  // Smiling Face with Horns😈
+    129782  // Hands making a heart 🫶
 ];
 
 // Finding the gallery in the HTML
